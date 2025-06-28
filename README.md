@@ -85,23 +85,23 @@ cd backend
 pip install -r requirements.txt
 
 #### 🔧 Frontend Setup
-All the dependencies are present inside the package.json file just follow these steps:
+- All the dependencies are present inside the package.json file just follow these steps:
 
-cd frontend
-npm install
+- cd frontend
+- npm install
 
-"npm install" this comand will install all the packges required for the forntend code to run
+- "npm install" this comand will install all the packges required for the forntend code to run
 
 
-After all these run the front end and backend code
+- After all these run the front end and backend code
 
 -For Frontend
-cd forntend
-npm start
+  - cd forntend
+  - npm start
 
 -For Backend
-cd backend
-uvicorn main:app --reload
+  - cd backend
+  - uvicorn main:app --reload
 
 # The following images are the ui of the app dark and light mode both
 
