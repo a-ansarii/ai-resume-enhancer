@@ -7,7 +7,7 @@ The AI Resume Enhancer is a full-stack web application designed to streamline an
 ---
 
 
-
+ 
 ## 🧰 Tech Stack
 
 | Frontend | Backend | Others |
@@ -34,18 +34,19 @@ The AI Resume Enhancer is a full-stack web application designed to streamline an
 
 ## 🗂 Folder Structure
 
-Internshala_assignment/
-├── backend/
-│ ├── main.py # FastAPI backend
-│ └── requirements.txt
-├── frontend/
-│ ├── src/
-│ │ └── App.js # Main UI logic
-│ ├── public/
-│ ├── tailwind.config.js
-│ ├── package.json
-│ 
-└── README.md
+| Folder/File              | Description                                                             |
+| ------------------------ | ----------------------------------------------------------------------- |
+| `backend/`               | Contains FastAPI backend logic                                          |
+| ├── `main.py`            | Core backend API for uploading, enhancing, and saving resume data       |
+| └── `requirements.txt`   | Python dependencies required to run the backend                         |
+| `frontend/`              | Contains the React-based frontend UI                                    |
+| ├── `src/`               | All source components and main React logic                              |
+| │   └── `App.js`         | Main application component with logic for editing and enhancing resumes |
+| ├── `public/`            | Static files served by React                                            |
+| ├── `tailwind.config.js` | Tailwind CSS configuration file                                         |
+| ├── `package.json`       | Project metadata and list of frontend dependencies                      |
+| └── `README.md`          | Project documentation and setup guide                                   |
+
 
 
 ---
