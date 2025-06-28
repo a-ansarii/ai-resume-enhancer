@@ -106,7 +106,8 @@ pip install -r requirements.txt
 
 # The following images are the ui of the app dark and light mode both
 
-![Light Mode]("C:\Users\PC-LENOVO\Pictures\Screenshots\Screenshot 2025-06-28 142359.png")
-![Dark Mode]("C:\Users\PC-LENOVO\Pictures\Screenshots\Screenshot 2025-06-28 142414.png")
+![Light Mode](./frontend/screenshots/light-mode.png)
+![Dark Mode](./frontend/screenshots/dark-mode.png)
+
 
 
