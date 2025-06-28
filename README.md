@@ -106,8 +106,8 @@ pip install -r requirements.txt
 
 # The following images are the ui of the app dark and light mode both
 
-![Light Mode](./frontend/screenshots/light-mode.png)
-![Dark Mode](./frontend/screenshots/dark-mode.png)
+![Light Mode](./frontend/ui-ux/light-mode.png)
+![Dark Mode](./frontend/ui-ux/dark-mode.png)
 
 
 
