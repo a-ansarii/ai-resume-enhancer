@@ -104,6 +104,12 @@ pip install -r requirements.txt
   - cd backend
   - uvicorn main:app --reload
 
+# How Enhancement works
+ - Once a resume is uploaded, the app auto-populates all fields.
+ - The Enhance with AI button will remain disabled until the user make any change in the           selected field.
+ - Once edited, the button becomes active and allows you to send the updated content for AI        enhancement.
+ - This prevents redundant enhancements and improves clarity for the user.
+
 # The following images are the ui of the app dark and light mode both
 
 ![Light Mode](./frontend/ui-ux/light-mode.png)
